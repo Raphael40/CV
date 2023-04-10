@@ -59,11 +59,16 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (September 2018 – July 2021)
+- BA Philosophy, Psychology & Scientific Thought
+-	Dissertation: ‘Establishing Neurochemistry; The Scientific Life of Derek Richter’
+-	Achieved 2:1
+-	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
+-	Studied formal logic, a personal precurser to coding logic
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Leeds (September 2017 – July 2018)
+- BA Arts and Humanities Foundation year
+-	Achieved 2:1
 
 #### Any other qualifications
 
