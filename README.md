@@ -1,7 +1,9 @@
 ## Julian Raphael Festing
 
 As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the tech world. It would seem I have found my calling because the pleasure of writing beautiful code and seeing a project come to life is something I could never move on from. 
+
 After six months of self-taught coding involving freeCodeCamp, Codecademy, lots of Codewars, and multiple mini-projects I decided to boost my career potential by joining makers academy where I can learn best practices from professionals, experience high-quality pair programming, and learn TDD from the best. 
+
 There is always something new to learn and interesting developments in the industry are constant. These things excite me. 
 
 
