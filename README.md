@@ -16,41 +16,37 @@ There is always something new to learn and interesting developments in the indus
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**CIBSE** (April 2022 – April 2023)  
+_Web support officer_
+-	Learnt how to use the ‘Umbraco’ Content Management System in order to support the transition from old to new company website 
+-	Maintained website quality through updates and bug fixes 
+-	Was tought how to use salesforce to managed committees, reports, emails, training sessions, and membership data
+-	Disciovered intricacies of UI & UX design in webpages
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Tradewind & Sanza (teaching staff agency)** (September 2021 – April 2022)  
+_Teaching Assistant_
+- Developed soft skills by teaching and communicating with secondary school students
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Firecracker Films**
+_Research intern_
+-	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series 
+-	Very good office experience in a well run company
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+How past experience will be useful in software development?
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Consider skills relevent to software development. Projects before Makers that I am proud of and/or are relevent to technology. Good examples clearly explain the impact you've had. 
 
+#### Development skills: 
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+Javascript, Ruby, HTML, CSS. 
+Experience to be filled
+Past experience include codebar tutorials / Youtube projects
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 – June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -66,14 +62,24 @@ I honed my communication skills while completing my thesis at university, which 
 -	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
 -	Studied formal logic, a personal precurser to coding logic
 
-#### University of Leeds (September 2017 – July 2018)
+#### University of Leeds Foundation (September 2017 – July 2018)
 - BA Arts and Humanities Foundation year
 -	Achieved 2:1
 
-#### Any other qualifications
+## Other
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Charity work
+- August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character)
+- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude)
+- January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins
+
+#### Additional miscellaneous Skills:
+-	Microsoft Office skills; Word, PowerPoint, Teams, Outlook, SharePoint
+-	Creative Software; Canva, Pixlr, Buffer, ClipChamp
+-	Web Development languages; Certified in html & CSS, learning JavaScript
+-	Home skills; Graduated from Orchard School of Cookery (2015)
+-	Physical skills; Can do an entire pullup 
+-	Other; Can solve Rubik’s cube (Possibly slightly outdated due to lack of rehearsal)
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Reading, Boxing, Gym, General nerd stuff...
