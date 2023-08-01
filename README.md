@@ -1,18 +1,48 @@
-## Julian Raphael Festing
+<div align="center">
+  <h1>Julian Raphael Festing - Full-Stack Software Engineer </h1>
+  <a href="https://www.linkedin.com/in/julian-r-f"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Linkedin Badge" /></a>
+  <a href="mailto:julfesting@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge" /></a>
+  <a href="https://github.com/Raphael40"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Linkedin Badge" /></a>
+  <br>
+  <br>
+  <div>
+    <a href="#-about-me">About Me</a> | 
+    <a href="#-projects">Projects</a> |
+    <a href="#-tech-stack">Tech Stack</a> |
+    <a href="#-soft-skills">Soft Skills</a> |
+    <a href="#-experience">Experience</a> |
+    <a href="#-education">Education</a> |
+    <a href="#-hobbies-&-interests">Hobbies & Interests</a>
+  </div>
+</div>
 
-As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the tech world. It would seem I have found my calling because the pleasure of writing beautiful code and seeing a project come to life is something I could never move on from. 
+## About Me
 
-After six months of self-taught coding involving freeCodeCamp, Codecademy, lots of Codewars, and multiple mini-projects I decided to boost my career potential by joining makers academy where I can learn best practices from professionals, experience high-quality pair programming, and learn TDD from the best. 
+As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the world of tech. It would seem I have found my calling because the endless possibilities of code and seeing a project come to life are things I could never move on from. 
 
-There is always something new to learn and interesting developments in the industry are constant. These things excite me. 
+After six months of self-taught coding involving Codecademy, lots of Codewars, and regular attendance at Codebar meetups, I decided to boost my career potential by joining Makers Academy. At Makers, I honed my skills and learned best practices in programming, including test-driven developement, .git version control, and detailed program design. I particularly value the opportunity to callaboratively develop full-stack projects with other like-minded individuals.
+
+I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. This is why have become so passionate about programming.
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **[Final project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+
+## Skills
+
+How past experience will be useful in software development?
+
+Consider skills relevent to software development. Projects before Makers that I am proud of and/or are relevent to technology. Good examples clearly explain the impact you've had. 
+
+#### Development skills: 
+
+Javascript, Ruby, HTML, CSS. 
+Experience to be filled
+Past experience include codebar tutorials / Youtube projects
 
 ## Work Experience
 
@@ -31,18 +61,6 @@ _Teaching Assistant_
 _Research intern_
 -	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series 
 -	Very good office experience in a well run company
-
-## Skills
-
-How past experience will be useful in software development?
-
-Consider skills relevent to software development. Projects before Makers that I am proud of and/or are relevent to technology. Good examples clearly explain the impact you've had. 
-
-#### Development skills: 
-
-Javascript, Ruby, HTML, CSS. 
-Experience to be filled
-Past experience include codebar tutorials / Youtube projects
 
 ## Education
 
