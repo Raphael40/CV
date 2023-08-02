@@ -31,6 +31,8 @@ I take great pride in the progress I have made and continuously strive to create
 | ---------------------------- | ----------------- | ----------------- |
 | **[Final project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Skills
 
