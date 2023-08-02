@@ -29,10 +29,10 @@ I take great pride in the progress I have made and continuously strive to create
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A mern stack web app that would allow users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Git, GitHub |
-| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | A webapp to do y. | Ruby              |
+| **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A web app that allows users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. For this project we wanted to improve our MERN stack fundamentals and work with API's | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress |
+| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. Users can check requests made on their listings and choose whether to accept them. This was our first group prjoject and we had a focus on realtional database architececture and how it interacts with the program. | Ruby, Sinatra, PostgreSQL, Rspec |
 | **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs all the headlines from the Guardian Newspaper API and displays them on a page. For me, this project was extremely important for understanding how to make fetch requests and manipulate JSON data. | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock |
-| **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A webapp to do y. | Ruby              |
+| **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A single page app that allows users to create and manage workouts. The frontend is built using React, and the backend is powered by MongoDB Atlas. | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS |
 
 ## Skills
 
