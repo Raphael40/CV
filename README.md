@@ -41,19 +41,20 @@ I take great pride in the progress I have made and continuously strive to create
 - Pair/Team projects that are planned with diagramming and ticketing to facilitate an agile procedure.
 - Git and GitHub for version control with over 20 collaboratively developed repositories.
 
-**Codebar**
+**Codebar Workshops**
 - I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
 - Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me.
 - I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app. 
 
-**CIBSE** (April 2022 – April 2023)  
-_Web support officer_
--	Learnt how to use the ‘Umbraco’ Content Management System in order to support the transition from old to new company website 
--	Maintained website quality through updates and bug fixes 
--	Was tought how to use salesforce to managed committees, reports, emails, training sessions, and membership data
--	Disciovered intricacies of UI & UX design in webpages
+## Professional Experience
 
-**Tradewind & Sanza (teaching staff agency)** (September 2021 – April 2022)  
+**Web Support at CIBSE** (April 2022 – April 2023)
+- I was initially onboarded for three months to help the company swap their website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
+-	I continued to work with CIBSE for a year and maintained the website through updates and bug fixes. 
+-	I was tought how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
+-	Thanks to my work with CIBSE I learned a lot about how websites work and was very happy to learn about the intricacies of UI & UX design in webpages.
+
+**Tradewind & Sanza** (September 2021 – April 2022)  
 _Teaching Assistant_
 - Developed soft skills by teaching and communicating with secondary school students
 
