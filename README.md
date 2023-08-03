@@ -29,24 +29,22 @@ I take great pride in the progress I have made and continuously strive to create
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A web app that allows users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. For this project we wanted to improve our MERN stack fundamentals and work with API's | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress |
-| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. Users can check requests made on their listings and choose whether to accept them. This was our first group prjoject and we had a focus on realtional database architececture and how it interacts with the program. | Ruby, Sinatra, PostgreSQL, Rspec |
+| **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A web app that allows users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. For this project we wanted to improve our MERN stack fundamentals and work with API's | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Postman |
+| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. Users can check requests made on their listings and choose whether to accept them. This was our first group prjoject and we had a focus on realtional database architececture and how it interacts with the program. | Ruby, Sinatra, PostgreSQL, Rspec, Postman, TablePlus |
 | **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs all the headlines from the Guardian Newspaper API and displays them on a page. For me, this project was extremely important for understanding how to make fetch requests and manipulate JSON data. | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock |
 | **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A single page app that allows users to create and manage workouts. The frontend is built using React, and the backend is powered by MongoDB Atlas. | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS |
 
-## Skills
+## Coding Experience
 
-How past experience will be useful in software development?
+**Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
+- Full-stack development using React, MongoDB, Ruby, and SQL to test-drive applications such as Twitter and Facebook clones.
+- Pair/Team projects that are planned with diagramming and ticketing to facilitate an agile procedure.
+- Git and GitHub for version control with over 20 collaboratively developed repositories.
 
-Consider skills relevent to software development. Projects before Makers that I am proud of and/or are relevent to technology. Good examples clearly explain the impact you've had. 
-
-#### Development skills: 
-
-Javascript, Ruby, HTML, CSS. 
-Experience to be filled
-Past experience include codebar tutorials / Youtube projects
-
-## Work Experience
+**Codebar**
+- I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
+- Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me.
+- I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app. 
 
 **CIBSE** (April 2022 – April 2023)  
 _Web support officer_
@@ -65,15 +63,6 @@ _Research intern_
 -	Very good office experience in a well run company
 
 ## Education
-
-#### Makers Academy (March 2023 – June 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### University of Leeds (September 2018 – July 2021)
 - BA Philosophy, Psychology & Scientific Thought
