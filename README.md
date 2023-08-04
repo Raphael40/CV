@@ -51,7 +51,7 @@ I take great pride in the progress I have made and continuously strive to create
 **Web Support at CIBSE** (April 2022 – April 2023)
 - I was initially onboarded for three months to help the company swap their website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
 -	I continued to work with CIBSE for a year and maintained the website through updates and bug fixes. 
--	I was tought how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
+-	I was taught how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
 -	Thanks to my work with CIBSE I learned a lot about how websites work and was very happy to learn about the intricacies of UI & UX design in webpages.
 
 **Tradewind & Sanza** (September 2021 – April 2022)  
