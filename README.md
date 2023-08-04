@@ -59,6 +59,7 @@ _Teaching Assistant_
 - Developed soft skills by teaching and communicating with secondary school students
 
 **Firecracker Films**
+
 _Research intern_
 -	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series 
 -	Very good office experience in a well run company
@@ -66,7 +67,8 @@ _Research intern_
 ## 📚 Education
 
 #### University of Leeds (September 2018 – July 2021)
-- BA Philosophy, Psychology & Scientific Thought
+_BA Philosophy, Psychology & Scientific Thought_
+
 -	Dissertation: ‘Establishing Neurochemistry; The Scientific Life of Derek Richter’
 -	Achieved 2:1
 -	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
