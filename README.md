@@ -72,10 +72,6 @@ _Research intern_
 -	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
 -	Studied formal logic, a personal precurser to coding logic
 
-#### University of Leeds Foundation (September 2017 – July 2018)
-- BA Arts and Humanities Foundation year
--	Achieved 2:1
-
 ## 🌏 Other
 
 #### Charity work
