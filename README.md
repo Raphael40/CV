@@ -22,7 +22,7 @@ As an ambitious adventurer, I have always sought new experiences in different ar
 
 After six months of self-taught coding involving Codecademy, lots of Codewars, and regular attendance at Codebar meetups, I decided to boost my career potential by joining Makers Academy. At Makers, I honed my skills and learned best practices in programming, including test-driven developement, .git version control, and detailed program design. I particularly value the opportunity to callaboratively develop full-stack projects with other like-minded individuals.
 
-I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. This is why have become so passionate about programming.
+I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. This is why I have become so passionate about programming.
 
 
 ## 📖 Projects
