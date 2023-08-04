@@ -16,7 +16,7 @@
   </div>
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
 As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the world of tech. It would seem I have found my calling because the endless possibilities of code and seeing a project come to life are things I could never move on from. 
 
@@ -25,7 +25,7 @@ After six months of self-taught coding involving Codecademy, lots of Codewars, a
 I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. This is why have become so passionate about programming.
 
 
-## Projects
+## 📖 Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -34,7 +34,7 @@ I take great pride in the progress I have made and continuously strive to create
 | **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs all the headlines from the Guardian Newspaper API and displays them on a page. For me, this project was extremely important for understanding how to make fetch requests and manipulate JSON data. | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock |
 | **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A single page app that allows users to create and manage workouts. The frontend is built using React, and the backend is powered by MongoDB Atlas. | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS |
 
-## Coding Experience
+## 💻 Coding Experience
 
 **Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
 - Full-stack development using React, MongoDB, Ruby, and SQL to test-drive applications such as Twitter and Facebook clones.
@@ -46,7 +46,7 @@ I take great pride in the progress I have made and continuously strive to create
 - Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me.
 - I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app. 
 
-## Professional Experience
+## 🖊️ Professional Experience
 
 **Web Support at CIBSE** (April 2022 – April 2023)
 - I was initially onboarded for three months to help the company swap their website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
@@ -63,7 +63,7 @@ _Research intern_
 -	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series 
 -	Very good office experience in a well run company
 
-## Education
+## 📚 Education
 
 #### University of Leeds (September 2018 – July 2021)
 - BA Philosophy, Psychology & Scientific Thought
@@ -76,7 +76,7 @@ _Research intern_
 - BA Arts and Humanities Foundation year
 -	Achieved 2:1
 
-## Other
+## 🌏 Other
 
 #### Charity work
 - August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character)
