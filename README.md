@@ -72,17 +72,9 @@ _BA Philosophy, Psychology & Scientific Thought_
 -	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
 -	Studied formal logic, a personal precurser to coding logic
 
-## 🌏 Other
+## 🌏 Volunteering
 
 #### Charity work
 - August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character)
 - August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude)
 - January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins
-
-#### Additional miscellaneous Skills:
--	Microsoft Office skills; Word, PowerPoint, Teams, Outlook, SharePoint
--	Creative Software; Canva, Pixlr, Buffer, ClipChamp
--	Web Development languages; Certified in html & CSS, learning JavaScript
--	Home skills; Graduated from Orchard School of Cookery (2015)
--	Physical skills; Can do an entire pullup 
--	Other; Can solve Rubik’s cube (Possibly slightly outdated due to lack of rehearsal)
