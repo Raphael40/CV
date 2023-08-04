@@ -86,6 +86,3 @@ _BA Philosophy, Psychology & Scientific Thought_
 -	Home skills; Graduated from Orchard School of Cookery (2015)
 -	Physical skills; Can do an entire pullup 
 -	Other; Can solve Rubik’s cube (Possibly slightly outdated due to lack of rehearsal)
-
-## Hobbies
-- Reading, Boxing, Gym, General nerd stuff...
