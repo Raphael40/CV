@@ -69,7 +69,7 @@ _Research intern_
 _BA Philosophy, Psychology & Scientific Thought_
 -	Dissertation: ‘Establishing Neurochemistry; The Scientific Life of Derek Richter’
 -	Achieved 2:1
--	Elected president of Kung-fu society two years running (position of responsibility requiring great time and people management)
+-	Elected president of Martial arts society two years running
 -	Studied formal logic, a personal precurser to coding logic
 
 ## 🌏 Volunteering
