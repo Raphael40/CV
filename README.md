@@ -37,9 +37,10 @@ I take great pride in the progress I have made and continuously strive to create
 ## 💻 Coding Experience
 
 **Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
-- Full-stack development using React, MongoDB, Ruby, and SQL to test-drive applications such as Twitter and Facebook clones.
-- Pair/Team projects that are planned with diagramming and ticketing to facilitate an agile procedure.
-- Git and GitHub for version control with over 20 collaboratively developed repositories.
+- During my four months at this company, I've successfully crafted a variety of web applications using different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
+- Working here helped not only refine my coding abilities and deepen my comprehension of programming architecture but also enhance my teamwork and leadership skills through pair-programming and collaborative projects.
+- One of the most significant learning experiences involved mastering Test-Driven Development practices. By utilizing test suites such as Rspec, Jest, and Cypress, I developed fully-tested applications encompassing unit, component, and end-to-end tests.
+- Overcoming the challenge of mocking APIs was a significant milestone, greatly bolstering my confidence in this aspect. For a more detailed insight into my major projects, please refer to my GitHub profile linked above.
 
 **Codebar Workshops**
 - I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
