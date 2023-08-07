@@ -8,11 +8,9 @@
   <div>
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
-    <a href="#-tech-stack">Tech Stack</a> |
-    <a href="#-soft-skills">Soft Skills</a> |
-    <a href="#-experience">Experience</a> |
+    <a href="#-coding-experience">Coding Experience</a> |
+    <a href="#-professional-experience">Professional Experience</a> |
     <a href="#-education">Education</a> |
-    <a href="#-hobbies-&-interests">Hobbies & Interests</a>
   </div>
 </div>
 
@@ -50,7 +48,7 @@ I take great pride in the progress I have made and continuously strive to create
 ## 🖊️ Professional Experience
 
 **Web Support at CIBSE** (April 2022 – April 2023)
-- I was initially onboarded for three months to help the company swap their website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
+- I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
 -	I continued to work with CIBSE for a year and maintained the website through updates and bug fixes. 
 -	I was taught how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
 -	Thanks to my work with CIBSE I learned a lot about how websites work and was very happy to learn about the intricacies of UI & UX design in webpages.
@@ -66,7 +64,7 @@ _Research intern_
 
 ## 📚 Education
 
-#### University of Leeds (September 2018 – July 2021)
+**University of Leeds** (September 2018 – July 2021)
 _BA Philosophy, Psychology & Scientific Thought_
 -	Dissertation: ‘Establishing Neurochemistry; The Scientific Life of Derek Richter’
 -	Achieved 2:1
@@ -75,7 +73,7 @@ _BA Philosophy, Psychology & Scientific Thought_
 
 ## 🌏 Volunteering
 
-#### Charity work
+**Charity work**
 - August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character)
 - August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude)
 - January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins
