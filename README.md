@@ -9,7 +9,7 @@
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
     <a href="#-coding-experience">Coding Experience</a> |
-    <a href="#-professional-experience">Professional Experience</a> |
+    <a href="#-work-experience">Work Experience</a> |
     <a href="#-education">Education</a> |
     <a href="#-volunteering">Volunteering</a> |
   </div>
@@ -46,7 +46,7 @@ I take great pride in the progress I have made and continuously strive to create
 - Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me.
 - I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app. 
 
-##  Professional Experience
+## 🖊️ Work Experience
 
 **Web Support at CIBSE** (April 2022 – April 2023)
 - I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
