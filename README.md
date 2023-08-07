@@ -43,8 +43,8 @@ I take great pride in the progress I have made and continuously strive to create
 
 **Codebar Workshops**
 - I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
-- Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me.
-- I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app. 
+- Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me
+- I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app.
 
 ## 🖊️ Professional Experience
 
@@ -56,12 +56,12 @@ I take great pride in the progress I have made and continuously strive to create
 
 **Tradewind & Sanza** (September 2021 – April 2022)  
 _Teaching Assistant_
-- Developed soft skills by teaching and communicating with secondary school students
+- Tutored students in one-on-one sessions to improve academic performance.
+- Supported staff in classroom management and educational activities.
 
 **Firecracker Films**
 _Research intern_
--	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series 
--	Very good office experience in a well run company
+-	Brainstorming ideas, researching subjects, and gaining insight into the project management in a pre-production process of a tv series.
 
 ## 📚 Education
 
@@ -70,11 +70,11 @@ _BA Philosophy, Psychology & Scientific Thought_
 -	Dissertation: ‘Establishing Neurochemistry; The Scientific Life of Derek Richter’
 -	Achieved 2:1
 -	Elected president of Martial arts society two years running
--	Studied formal logic, a personal precurser to coding logic
+-	Studied formal logic, a precurser to coding logic
 
 ## 🌏 Volunteering
 
 **Charity work**
-- August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character)
-- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude)
-- January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins
+- August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character).
+- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude).
+- January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins.
