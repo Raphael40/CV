@@ -9,7 +9,7 @@
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
     <a href="#-coding-experience">Coding Experience</a> |
-    <a href="#-professional-experience">Professional Experience</a> |
+    <a href="#professional-experience">Professional Experience</a> |
     <a href="#-education">Education</a> |
     <a href="#-volunteering">Volunteering</a> |
   </div>
