@@ -8,7 +8,7 @@
   <div>
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
-    <a href="#-coding">Coding</a> |
+    <a href="#-coding-experience">Coding Experience</a> |
     <a href="#-professional-experience">Professional Experience</a> |
     <a href="#-education">Education</a> |
     <a href="#-volunteering">Volunteering</a> |
@@ -33,7 +33,7 @@ I take great pride in the progress I have made and continuously strive to create
 | **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs all the headlines from the Guardian Newspaper API and displays them on a page. For me, this project was extremely important for understanding how to make fetch requests and manipulate JSON data. | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock |
 | **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A single page app that allows users to create and manage workouts. The frontend is built using React, and the backend is powered by MongoDB Atlas. | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS |
 
-## 💻 Coding
+## 💻 Coding Experience
 
 **Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
 - During my four months at this company, I've successfully crafted a variety of web applications using different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
