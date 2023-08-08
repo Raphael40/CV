@@ -29,7 +29,7 @@ I take great pride in the progress I have made and continuously strive to create
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**           | A web app that allows users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. For this project we wanted to improve our MERN stack fundamentals and work with API's | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Postman |
-| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. Users can check requests made on their listings and choose whether to accept them. This was our first group prjoject and we had a focus on realtional database architececture and how it interacts with the program. | Ruby, Sinatra, PostgreSQL, Rspec, Postman, TablePlus |
+| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)** | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. It uses three tables connected to each other in a relational database and implements .erb files for its page views. Understanding relational database architecture and testing in depth with RSpec were crucial for our success. | Ruby, Sinatra, PostgreSQL, Rspec, Postman, TablePlus |
 | **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs all the headlines from the Guardian Newspaper API and displays them on a page. For me, this project was extremely important for understanding how to make fetch requests and manipulate JSON data. | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock |
 | **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)** | A single page app that allows users to create and manage workouts. The frontend is built using React, and the backend is powered by MongoDB Atlas. | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS |
 
@@ -43,12 +43,12 @@ I take great pride in the progress I have made and continuously strive to create
 
 **Codebar Workshops**
 - I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
-- Through Codebar I cooperated with many other aspiring developers to encourage and inspire each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me
-- I recently attended my first session as a coach rather than a student. It felt great to give back to the community and I really enjoyed helping my student debug her weather app.
+- Through Codebar I cooperated with many other aspiring developers to encourage and motivate each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me
+- I recently attended my first session as a coach rather than a student. It felt great to give back to the community.
 
 ## 🖊️ Professional Experience
 
-**Web Support at CIBSE** (April 2022 – April 2023)
+**Web Support Specialist at CIBSE** (April 2022 – April 2023)
 - I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
 -	I continued to work with CIBSE for a year and maintained the website through updates and bug fixes. 
 -	I was taught how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
