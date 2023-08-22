@@ -7,9 +7,12 @@
   <br>
 </div>
 
-<div align="center">
-  [About Me](#-about-me) | [Projects](#-projects) | [Coding Experience](#-coding-experience) | [Professional Experience](#-professional-experience) | [Education](#-education) | [Volunteering](#-volunteering)
-</div>
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Coding Experience](#-coding-experience)
+- [Professional Experience](#-professional-experience)
+- [Education](#-education)
+- [Volunteering](#-volunteering)
 
 ## 👨‍💻 About Me
 
