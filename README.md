@@ -7,12 +7,7 @@
   <br>
 </div>
 
-- [About Me](#-about-me)
-- [Projects](#-projects)
-- [Coding Experience](#-coding-experience)
-- [Professional Experience](#-professional-experience)
-- [Education](#-education)
-- [Volunteering](#-volunteering)
+[About Me](#-about-me) | [Projects](#-projects) | [Coding Experience](#-coding-experience) | [Professional Experience](#-professional-experience) | [Education](#-education) | [Volunteering](#-volunteering)
 
 ## 👨‍💻 About Me
 
