@@ -5,14 +5,15 @@
   <a href="https://github.com/Raphael40"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Linkedin Badge" /></a>
   <br>
   <br>
+  <div>
+    <a href="#-about-me">About Me</a> | 
+    <a href="#-projects">Projects</a> |
+    <a href="#-coding-experience">Coding Experience</a> |
+    <a href="#-professional-experience">Professional Experience</a> |
+    <a href="#-education">Education</a> |
+    <a href="#-volunteering">Volunteering</a> |
+  </div>
 </div>
-
-- [About Me](#-about-me)
-- [Projects](#-projects)
-- [Coding Experience](#-coding-experience)
-- [Professional Experience](#-professional-experience)
-- [Education](#-education)
-- [Volunteering](#-volunteering)
 
 ## 👨‍💻 About Me
 
