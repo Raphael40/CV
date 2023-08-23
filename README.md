@@ -36,28 +36,33 @@ I take great pride in the progress I have made and continuously strive to create
 ## 💻 Coding Experience
 
 **Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
-- During my four months at this company, I've successfully crafted a variety of web applications using different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
-- Working here helped not only refine my coding abilities and deepen my comprehension of programming architecture but also enhance my teamwork and leadership skills through pair-programming and collaborative projects.
-- One of the most significant learning experiences involved mastering Test-Driven Development practices. By utilizing test suites such as Rspec, Jest, and Cypress, I developed fully-tested applications encompassing unit, component, and end-to-end tests.
-- Overcoming the challenge of mocking APIs was a significant milestone, greatly bolstering my confidence in this aspect. For a more detailed insight into my major projects, please refer to my GitHub profile linked above.
+- Since I started Makers I have crafted applications such as an Airbnb clone and a concert finder using different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
+- Working here built my teamwork and leadership skills in pair-programming and group projects by practicing navigator and driver roles with an agile methodology that helps by breaking the work down into basic steps. Understanding Github’s collaboration function has been invaluable.
+- Learning how to test code with frameworks like Rspec, Jest, Cypress, and Playwrite has been one of my biggest achievements. I understand the principles of test-driven development and am the author of multiple applications that incorporate unit, component, and end-to-end tests.
+- On top of boosting my technical ability, I have also made a network with other aspiring students to work on new projects. My next idea is to collaboratively develop a fully tested React Native ‘Tesco meal-deal streak app’ that displays how often one has meal deals and lets you earn achievements for eating them on consecutive days.
+
 
 **Codebar Workshops**
-- I have attended over 20 [Codebar](https://codebar.io/) workshops since I began my journey a year ago. The first time I ever used Javascript and .git/GitHub were in Codebar sessions.
-- Through Codebar I cooperated with many other aspiring developers to encourage and motivate each other. Moreover, I recieved quality tuition and advice from senior develpers that kindly shared their time with me
-- I recently attended my first session as a coach rather than a student. It felt great to give back to the community.
+- I have attended over 20 Codebar workshops since I began my journey a year ago. It has been so influential that the first time I ever used Javascript and GitHub was during Codebar sessions.
+- Through Codebar I shared ideas with other aspiring developers and received quality tuition and advice from senior engineers from companies like Google and the Financial Times.
+- I recently attended my first session as a coach!! It felt great to give back to the community and developing the ability to teach complex programming concepts at such an early stage of my career is a huge achievement.
+
 
 ## 🖊️ Professional Experience
 
 **Web Support Specialist at CIBSE** (April 2022 – April 2023)
-- I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline. 
--	I continued to work with CIBSE for a year and maintained the website through updates and bug fixes. 
--	I was taught how to use salesforce and assisted multiple departments by managing committees, writing reports, proof-reading emails, registering training sessions, and uploading membership data.
--	Thanks to my work with CIBSE I learned a lot about how websites work and was very happy to learn about the intricacies of UI & UX design in webpages.
+- I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline.
+- Continued to work with CIBSE for a year and learned how to maintain their website using updates and bug fixes.
+- I was taught to use Salesforce and assisted multiple departments by managing committees, writing reports, proofreading emails, registering training sessions, and uploading membership data.
+- Thanks to my work with CIBSE I learned about UI & UX design, cloud storage, and content management systems. I also gained a year of experience in a professional office environment. 
+
 
 **Tradewind & Sanza** (September 2021 – April 2022)  
 _Teaching Assistant_
-- Tutored students in one-on-one sessions to improve academic performance.
-- Supported staff in classroom management and educational activities.
+- Worked with special educational needs students to improve their academic ability by conducting one-on-one tutorials in maths and philosophy. 
+- Supported staff in the classroom by helping prepare materials, recording the students’ progress, and looking after students that were unwell or hurt.
+- Supervised after-school homework club and participated in extra-curricular sporting activities.
+
 
 **Firecracker Films**
 _Research intern_
@@ -75,6 +80,6 @@ _BA Philosophy, Psychology & Scientific Thought_
 ## 🌏 Volunteering
 
 **Charity work**
-- August 2020: Food Bank Staff at Holloway Food Bank, London (proof of character).
-- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised (proof of mental fortitude).
-- January - February 2019 Teaching assistant in Dhaka Bangladesh, allowed me to intimately experience the culture that runs in my veins.
+- August 2020: Food Bank Staff at Holloway Food Bank, London.
+- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised.
+- January - February 2019: Teaching assistant in Dhaka Bangladesh.
