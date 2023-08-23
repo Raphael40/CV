@@ -10,7 +10,7 @@
     <a href="#-projects">Projects</a> |
     <a href="#-coding-experience">Coding Experience</a> |
     <a href="#-education">Education</a> |
-    <a href="#-volunteering">Volunteering</a> |
+    <a href="#-volunteering">Volunteering</a>
   </div>
 </div>
 
@@ -18,9 +18,10 @@
 
 As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the world of tech. It would seem I have found my calling because the endless possibilities of code and seeing a project come to life are things I could never move on from. 
 
-After six months of self-taught coding involving Codecademy, lots of Codewars, and regular attendance at Codebar meetups, I decided to boost my career potential by joining Makers Academy. At Makers, I honed my skills and learned best practices in programming, including test-driven developement, .git version control, and detailed program design. I particularly value the opportunity to callaboratively develop full-stack projects with other like-minded individuals. A video demonstration can be seen here: [Gig-Guru](https://photos.app.goo.gl/qEGz2Pb425fBRtFN7)
+After six months of self-taught coding involving Codecademy, lots of Codewars, and regular attendance at Codebar workshops, I decided to boost my career potential by joining Makers Academy. At Makers, I honed my skills and learned the core principles of test-driven development, Git version control, frameworks, and database architecture. During my learning, I frequently programmed in collaborative environments, through pair programming on coding exercises or working on large-scale team projects, as both a contributor and a leader.
 
-I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. This is why I have become so passionate about programming.
+I take great pride in the progress I have made and continuously strive to create more complex and efficient projects. Moreover, I have been captivated by the tech community, where interesting and like-minded people not only inspire me but also provide valuable guidance and support. I am now ready to work full-time as a developer who can reliably produce and maintain high-quality code.
+
 
 
 ## 📖 Projects
