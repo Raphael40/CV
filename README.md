@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the world of tech. It would seem I have found my calling because the endless possibilities of code and seeing a project come to life are things I could never move on from. 
+As an ambitious adventurer, I have always sought new experiences in different areas, leading me to enter the world of tech. It would seem I have found my calling because the endless possibilities of coding and seeing a project come to life are things I could never move on from. 
 
 After six months of self-taught coding involving Codecademy, lots of Codewars, and regular attendance at Codebar workshops, I decided to boost my career potential by joining Makers Academy. At Makers, I honed my skills and learned the core principles of test-driven development, Git version control, frameworks, and database architecture. During my learning, I frequently programmed in collaborative environments, through pair programming on coding exercises or working on large-scale team projects, as both a contributor and a leader.
 
@@ -43,7 +43,7 @@ I take great pride in the progress I have made and continuously strive to create
 
 
 **Codebar Workshops**
-- I have attended over 20 Codebar workshops since I began my journey a year ago. It has been so influential that the first time I ever used Javascript and GitHub was during Codebar sessions.
+- I have attended over 20 Codebar workshops since I began my journey a year ago, and it was through these sessions that I had my initial experiences with Javascript and GitHub.
 - Through Codebar I shared ideas with other aspiring developers and received quality tuition and advice from senior engineers from companies like Google and the Financial Times.
 - I recently attended my first session as a coach!! It felt great to give back to the community and developing the ability to teach complex programming concepts at such an early stage of my career is a huge achievement.
 
@@ -52,7 +52,7 @@ I take great pride in the progress I have made and continuously strive to create
 
 **Web Support Specialist at CIBSE** (April 2022 – April 2023)
 - I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline.
-- Continued to work with CIBSE for a year and learned how to maintain their website using updates and bug fixes.
+- Designed and populated webpages using the Umbraco content management system. Some examples are the Societies page, the News page, and the Registration page.
 - I was taught to use Salesforce and assisted multiple departments by managing committees, writing reports, proofreading emails, registering training sessions, and uploading membership data.
 - Thanks to my work with CIBSE I learned about UI & UX design, cloud storage, and content management systems. I also gained a year of experience in a professional office environment. 
 
