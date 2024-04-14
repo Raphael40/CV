@@ -8,7 +8,7 @@
   <div>
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
-    <a href="#-coding-experience">Coding Experience</a> |
+    <a href="#-experience">Coding Experience</a> |
     <a href="#-education">Education</a> |
     <a href="#-volunteering">Volunteering</a>
   </div>
@@ -20,16 +20,16 @@ With a background in tech-education and a passion for software development, I am
 
 ## 📖 Projects
 
-| Name                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                      | Tech/tools                                                        |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **[Group project - GigGuru](https://github.com/Raphael40/gig-guru)**                   | A web app that allows users to sign up for accounts, set their location and locate upcoming music events for that area. It uses the ticket master API to source the events and the Google API to display the location of the concert. For this project we wanted to improve our MERN stack fundamentals and work with API's                                                                                      | MongoDB, Express.js, React.js, and Nodejs, Jest, Cypress, Postman |
-| **[Group Project - RuBnB](https://github.com/Raphael40/RuBnB)**                        | The app allows a user to create an account and add listings that can be rented out over a range of dates. Users can also browse other users' listings and request to book them. It uses three tables connected to each other in a relational database and implements .erb files for its page views. Understanding relational database architecture and testing in depth with RSpec were crucial for our success. | Ruby, Sinatra, PostgreSQL, Rspec, Postman, TablePlus              |
-| **[Solo Project - News-Summary](https://github.com/Raphael40/news-summary-challenge)** | A single-page web app that grabs and displays all the headlines from the Guardian Newspaper API. The search bar can be used to filter the results by topic and the headings are links to the original articles. The highlights of this project were learning async programming and using a bundler file.                                                                                                         | Javascript, HTML, CSS, Guardian API, Jest, Jest-Fetch-Mock        |
-| **[Solo Project - Workout-Planner](https://github.com/Raphael40/MERN-stack-workout)**  | A single-page app that allows users to create, view, and delete workouts. Each workout is stored in MongoDB-Atlas and the frontend is made with React for fast and responsive rendering of database items. I have recently revisited this app to add end-to-end testing.                                                                                                                                         | MongoDB-Atlas, Mongoose, Express, React, Node.js, HTML, CSS       |
+| Name                                                                    | Description                                                                                                                                                                                                                                                                                                 | Tech/tools                                    |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Solo Project [Manga-API](https://github.com/Raphael40/Manga-API)**    | A web service with create, read, update and delete functionality for managing Manga data. It has 100% test coverage with Jest and uses a Docker postgres image to run the test database.                                                                                                                    | Node.js, Express.js, Jest, PostgreSQL, Docker |
+| **Solo Project [Anime-List](https://github.com/Raphael40/Anime-List)**  | A static site that lets you view a list of anime, sort them by genre, view the details of a single anime and search for anime. This project has X% test coverage in component tests.                                                                                                                        | React, Vite, Vitest, RapidAPI                 |
+| **Group Project [RuBnB](https://github.com/Raphael40/RuBnB)**           | A full-stack app that allows a user to create an account and add property listings that can be rented out over a range of dates. Users can also browse other users' property and request to book them. It uses three tables connected to each other in a relational database and 100% backend test coverage | Ruby, Sinatra, PostgreSQL, Rspec, Stripe      |
+| **Solo Project[Meal-Dealio](https://github.com/Raphael40/Meal-Dealio)** | Keep track of your meal deal consumption. View your total, current streak, longest streak and total cash spent on meal deals. Earn achievements coming soon.                                                                                                                                                | React-Native, Expo, Firebase, Jest            |
 
-## 💻 Coding Experience
+## 💻 Experience
 
-**Engineering Trainer [La Fosse Academy](https://www.lafosseacademy.com/)**
+**Engineering Trainer [La Fosse Academy](https://www.lafosseacademy.com/)** (October 2023 - March 2024)
 
 - Led technical coding workshops for a class of 19 students, providing starter code repositories and running hands-on implementation sessions. Achieved a 100% pass rate in assessments, with six students scoring full marks.
 - Enhanced course curriculum by adding new content such as upgrading Node API testing lecture to include unit tests. Following this, backend test coverage in student projects rose to +80% consistently.
@@ -41,7 +41,7 @@ With a background in tech-education and a passion for software development, I am
 - Successfully migrated company website from Kentico to Umbraco content management system, meeting the deadline.
 - Improved website quality by implementing clear page hierarchy with consisten layout using Umbraco and Salesforce.
 
-**Codebar Workshops**
+**Codebar Workshops at [Codebar](https://codebar.io/)**
 
 - Volunteer coding coach at CodeBar, a charity providing free weekly programming workshops to minority groups.
 - Enhanced skills in program architecture, debugging, and code refactoring while coaching at CodeBar.
