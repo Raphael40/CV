@@ -2,15 +2,13 @@
   <h1>Julian Raphael Festing</h1>
   <a href="https://www.linkedin.com/in/julian-r-f"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Linkedin Badge" /></a>
   <a href="mailto:julfesting@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge" /></a>
-  <a href="https://github.com/Raphael40"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Linkedin Badge" /></a>
   <br>
   <br>
   <div>
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
     <a href="#-experience">Coding Experience</a> |
-    <a href="#-education">Education</a> |
-    <a href="#-volunteering">Volunteering</a>
+    <a href="#-education">Education</a> 
   </div>
 </div>
 
