@@ -29,19 +29,17 @@ With a background in tech-education and a passion for software development, I am
 
 ## 💻 Coding Experience
 
-**Engineering Trainer [La Fosse Academy](https://makers.tech/)**
+**Engineering Trainer [La Fosse Academy](https://www.lafosseacademy.com/)**
 
 - Led technical coding workshops for a class of 19 students, providing starter code repositories and running hands-on implementation sessions. Achieved a 100% pass rate in assessments, with six students scoring full marks.
-- Enhanced course curriculum by adding new content, including upgrade of Node API testing lecture with unit tests. Following this, backend test coverage in student projects rose.
+- Enhanced course curriculum by adding new content such as upgrading Node API testing lecture to include unit tests. Following this, backend test coverage in student projects rose to +80% consistently.
 - Provided group feedback for student projects resulting in highly functional and visually appealing websites. Delivered 1-2-1 feedback resulting in improved technical and communicative skills for all students.
 - Improved my programming fundamentals, boosting personal project quality and gaining the knowledge to create a structured software training course.
 
-**Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
+**Web Support Specialist at CIBSE** (April 2022 – April 2023)
 
-- Since I started Makers I have crafted applications such as an Airbnb clone and a concert finder using different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
-- Working here built my teamwork and leadership skills in pair-programming and group projects by practicing navigator and driver roles with an agile methodology that helps by breaking the work down into basic steps. Understanding Github’s collaboration function has been invaluable.
-- Learning how to test code with frameworks like Rspec, Jest, Cypress, and Playwrite has been one of my biggest achievements. I understand the principles of test-driven development and am the author of multiple applications that incorporate unit, component, and end-to-end tests.
-- On top of boosting my technical ability, I have also made a network with other aspiring students to work on new projects. My next idea is to collaboratively develop a fully tested React Native ‘Tesco meal-deal streak app’ that displays how often one has meal deals and lets you earn achievements for eating them on consecutive days.
+- Successfully migrated company website from Kentico to Umbraco content management system, meeting the deadline.
+- Improved website quality by implementing clear page hierarchy with consisten layout using Umbraco and Salesforce.
 
 **Codebar Workshops**
 
@@ -49,16 +47,12 @@ With a background in tech-education and a passion for software development, I am
 - Enhanced skills in program architecture, debugging, and code refactoring while coaching at CodeBar.
 - Recieved positive feedback for helping debug a weather app. Student now works as a front end developer.
 
-## 🖊️ Professional Experience
-
-**Web Support Specialist at CIBSE** (April 2022 – April 2023)
-
-- I was initially onboarded for three months to help the company transfer its website to a new content management system. We successfully moved from Kentico to Umbraco within the deadline.
-- Designed and populated webpages using the Umbraco content management system. Some examples are the Societies page, the News page, and the Registration page.
-- I was taught to use Salesforce and assisted multiple departments by managing committees, writing reports, proofreading emails, registering training sessions, and uploading membership data.
-- Thanks to my work with CIBSE I learned about UI & UX design, cloud storage, and content management systems. I also gained a year of experience in a professional office environment.
-
 ## 📚 Education
+
+**Software Engineering Bootcamp at [Makers Academy](https://makers.tech/)**
+
+- Contributed to group projects such as an Airbnb clone and Tickermaster clone using an agile methodology and different technology stacks, notably MERN (MongoDB, Express, React, Node.js) and RSP (Ruby, Sinatra, PostgreSQL).
+- Learned how to test code with frameworks like Rspec, Jest, Cypress, and Playwrite. I understand the principles of test-driven development and have built multiple applications that incorporate unit, component, and end-to-end tests.
 
 **University of Leeds** (September 2018 – July 2021)
 _BA Philosophy, Psychology & Scientific Thought_
@@ -67,11 +61,3 @@ _BA Philosophy, Psychology & Scientific Thought_
 - Achieved 2:1
 - Elected president of Martial arts society two years running
 - Studied formal logic, a precurser to coding logic
-
-## 🌏 Volunteering
-
-**Charity work**
-
-- August 2020: Food Bank Staff at Holloway Food Bank, London.
-- August – September 2021: Kilimanjaro Charity Climb with Dig Deep involving 5 day ascention and £1500 raised.
-- January - February 2019: Teaching assistant in Dhaka Bangladesh.
